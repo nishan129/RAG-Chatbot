@@ -324,8 +324,24 @@ Then open **Jenkins Dashboard** again to continue.
 - Go to **Jenkins Dashboard** → Select your pipeline job
 - Click **Build Now**
 
+
+
 If all stages succeed (Checkout → Build → Trivy Scan → Push to ECR → Deploy to App Runner):
 
 🎉 **CI/CD Deployment to AWS App Runner is complete!**
 
 ✅ Your app is now live and running on AWS 🚀
+
+
+
+### RUN In Local
+
+# Add .evn file 
+```bash
+PINECONE_API_KEY =
+PINECONE_API_ENV =
+PINECONE_INDEX_NAME =
+MONGODB_URL_KEY = 
+GOOGLE_API_KEY =
+GROQ_API_KEY = 
+```
