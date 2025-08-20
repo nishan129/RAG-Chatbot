@@ -3,15 +3,15 @@
 ## Clone the Project
 
 ```bash
-git clone https://github.com/data-guru0/LLMOPS-2-TESTING-MEDICAL.git
-cd LLMOPS-2-TESTING-MEDICAL
+git clone https://github.com/nishan129/RAG-Chatbot.git
+cd RAG-Chatbot
 ```
 
 ## Create a Virtual Environment (Windows)
 
 ```bash
-python -m venv venv
-venv\Scripts\activate
+conda create -p venv/ python==3.10 -y
+conda activate venv/
 ```
 
 ## Install Dependencies
