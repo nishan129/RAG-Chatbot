@@ -1,6 +1,5 @@
 langchain
 langchain_community
-faiss-cpu
 pypdf
 flask
 python-dotenv
