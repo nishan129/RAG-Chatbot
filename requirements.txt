@@ -1,0 +1,15 @@
+langchain
+langchain_community
+langchain_huggingface
+faiss-cpu
+pypdf
+flask
+python-dotenv
+huggingface_hub
+langchain_groq
+huggingface_hub[hf_xet]
+pinecone
+langchain_pinecone
+pymongo
+langchain_google_genai
+nest_asyncio
