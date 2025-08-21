@@ -345,3 +345,8 @@ MONGODB_URL_KEY =
 GOOGLE_API_KEY =
 GROQ_API_KEY = 
 ```
+
+### RUN 
+```
+app/application.py
+```
