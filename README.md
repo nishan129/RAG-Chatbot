@@ -348,5 +348,5 @@ GROQ_API_KEY =
 
 ### RUN 
 ```
-app/application.py
+python app/application.py
 ```
